@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac790a70-0def-43f1-b24f-6371df55bfb6" alt="Logo" width="120" />
 </p>
@@ -10,16 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://share.google/oeRODOvJqqFtkXRlb">
     <img src="https://github.com/user-attachments/assets/f53d36ed-adae-458e-9028-6664e9979f04" alt="Latest Release" />
   </a>
 </p>
 
+<img src="https://github.com/user-attachments/assets/f60c2c67-4347-4163-aec5-bc2ee8c89acd" alt="Screenshot" />
+
 <br>
-
-## About
-
-<img align="right" width="520" src="https://github.com/user-attachments/assets/1551c1d9-c33c-4f8c-89bb-1cbdef0f94a4" alt="Screenshot" />
+<br>
+  
+## About PC Screen Cast
 
 **PC Screen Cast to Any Device** is an open-source tool for streaming your computer screen to phones, TVs, tablets, and other devices over your local network. It is built for people who want a simple, transparent way to mirror their desktop — without accounts, subscriptions, or sending data through third-party cloud servers.
 
@@ -38,7 +38,6 @@ The project is community-driven, with a focus on reliability, low latency, and c
 - **Audio support** — stream system audio alongside the screen
 - **Detailed logging** — built-in diagnostics for troubleshooting
 
-<br clear="right" />
 
 ---
 
