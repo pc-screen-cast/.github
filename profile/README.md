@@ -14,7 +14,11 @@
   </a>
 </p>
 
-<img src="https://github.com/user-attachments/assets/f60c2c67-4347-4163-aec5-bc2ee8c89acd" alt="Screenshot" />
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/f60c2c67-4347-4163-aec5-bc2ee8c89acd" alt="Screenshot" />
+  </a>
+</p>
 
 <br>
 <br>
